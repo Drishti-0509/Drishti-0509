@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&pause=2000&color=00FF88&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Drishti+%F0%9F%91%8B" alt="Name" />
 </h1>
 
-### 👩‍💻 Full Stack Developer · DSA Enthusiast · Problem Solver
+### 👩‍💻 Frontend Developer · DSA Enthusiast · Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+with+MERN+Stack+%F0%9F%9A%80;Solving+150%2B+LeetCode+Problems+%F0%9F%A7%A0;Learning+DSA+in+C%2B%2B+%F0%9F%94%A5;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
