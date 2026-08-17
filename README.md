@@ -81,7 +81,7 @@
 
 | 🧩 Problems Solved | 🔥 Streak | 💡 Approach |
 |:-:|:-:|:-:|
-| **150+** | Consistent | C++ & Logic First |
+| **230+** | Consistent | C++ & Logic First |
 
 > *"Every problem solved is a new pattern learned."*
 
