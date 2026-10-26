@@ -20,7 +20,7 @@
 | 🤝 **Looking to Collaborate** | Open-source React & Web Dev Projects |
 | 🌱 **Currently Learning** | DSA in C++ · Next.js · Modern Web Technologies |
 | 💬 **Ask Me About** | React · Node.js · MongoDB · C++ · LeetCode |
-| ⚡ **Fun Fact** | Cracked 150+ LeetCode problems and still grinding! 🧩 |
+| ⚡ **Fun Fact** | Cracked 270+ LeetCode problems and still grinding! 🧩 |
 | 📧 **Reach Me At** | b241096@skit.ac.in |
 
 ---
