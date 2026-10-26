@@ -81,7 +81,7 @@
 
 | 🧩 Problems Solved | 🔥 Streak | 💡 Approach |
 |:-:|:-:|:-:|
-| **230+** | Consistent | C++ & Logic First |
+| **270+** | Consistent | C++ & Logic First |
 
 > *"Every problem solved is a new pattern learned."*
 
@@ -95,7 +95,7 @@
 🔭  Building      →  Full-stack MERN applications
 🤝  Collaborating →  Open-source React & web projects  
 🌱  Learning      →  DSA in C++ · Next.js · Modern Web Tech
-⚡  Grinding      →  LeetCode daily · 150+ problems solved
+⚡  Grinding      →  LeetCode daily · 270+ problems solved
 ```
 
 ---
